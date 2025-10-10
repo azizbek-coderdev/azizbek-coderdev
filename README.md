@@ -1,4 +1,4 @@
-## Hi there I am Azizbek!👋
+## Hi, there I'm Azizbek!👋
 
 <!--
 **azizbek-coderdev/azizbek-coderdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
